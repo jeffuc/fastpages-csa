@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-Jeff is study CSA.
+Jeff is study the CSA.
 This website is powered by **[fastpages](https://github.com/jeffuc/fastpages-csa)** [^1].
 
 
