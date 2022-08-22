@@ -39,7 +39,7 @@ baseurl: "/fastpages-csa" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: jeffwu
+    twitter: jeffuc
     github: jeffuc
 
 # Set this to true to get LaTeX math equation support
